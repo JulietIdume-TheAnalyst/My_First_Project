@@ -25,8 +25,23 @@ The primary data source of Dat used is Data Customermapping.csv and this is an o
       1. Data Manipulation
       2. Data Munching
 - SQL Server for Querying and Anallysis (Download here)
-- Power BI (for creating a report)
+- Power BI [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494&msockid=1baf981cbe266e163f348ac7bf326fbe) (for creating a report)
 - Ms Power Point or presentation (Download here)
 
+### Data Cleaning and Preparation
+In the initial stage of the data preparation and cleaning, we perform the folowing:
+1. Data loading and inspection
+2. Handling missing variables
 
- 
+### Exploratory Data Analysis
+EDA invloves the exploring of the data to answer some questions about the Data such as;
+- What is the overall sales trend
+- Which product are top sellers
+- What are the products on peak sales
+
+### Data Analysis
+
+ !!! SQL
+SELECT A,B,C
+WHERE A> 15
+!!!
